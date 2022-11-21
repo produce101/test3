@@ -1,1 +1,22 @@
- 
+ .externalToolBuilders
+.settings
+.idea
+.vscode
+.factorypath
+logs
+target
+tools
+.springBeans
+sonar.properties
+.pmd
+.rebel*
+.svn
+docs
+settings.xml
+ds-support-system.iml
+ds-support-system.eml
+src/main/webapp/document
+src/main/webapp/upload
+src/main/webapp/resources/download
+src/main/webapp/webcontent
+.classpath
