@@ -12,6 +12,7 @@ sonar.properties
 .rebel*
 .svn
 docs
+out
 settings.xml
 ds-support-system.iml
 ds-support-system.eml
