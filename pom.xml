@@ -30,7 +30,7 @@
     <build>
         <sourceDirectory>src/main/java</sourceDirectory>
         <testSourceDirectory>src/test/java</testSourceDirectory>
-        <outputDirectory>cbc/classes</outputDirectory>
+        <!--<outputDirectory>cbc/classes</outputDirectory>-->
         <!--<testOutputDirectory>target/test-classes</testOutputDirectory>-->
         <resources>
             <resource>
